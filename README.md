@@ -118,5 +118,5 @@ Example: The dashboard was built using the following tools and technologies:
 • 📝 Data Modeling – Relationships established among tables (resorts, snow, and data_dictionary) to enable cross-filtering and aggregation.
 • 📁 File Format – .pbix for development and .png for dashboard previews.
 
-# SCREENSHORT
-
+# SCREENSHORT 1
+https://github.com/SAYLI-28/UBER-DATA-ANALYSIS-DASHBOARD/blob/main/UBER%20DASHBOARD%20OVERVIEW.png

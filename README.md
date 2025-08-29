@@ -119,7 +119,10 @@ Example: The dashboard was built using the following tools and technologies:
 • 📁 File Format – .pbix for development and .png for dashboard previews.
 
 # SCREENSHORT 1
+https://github.com/SAYLI-28/UBER-DATA-ANALYSIS-DASHBOARD/blob/main/UBER%20DASHBOARD%20OVERVIEW.png
 
 # SCREENSHORT 2
+https://github.com/SAYLI-28/UBER-DATA-ANALYSIS-DASHBOARD/blob/main/UBER%20TRIP%20DETAILS%20DASHBOARD.png
 
 # SCREENSHORT 3
+https://github.com/SAYLI-28/UBER-DATA-ANALYSIS-DASHBOARD/blob/main/UBER%20TRIP%20TIME%20ANALYSIS%20DASHBOARD.png
